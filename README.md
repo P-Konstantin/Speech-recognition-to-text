@@ -22,4 +22,4 @@ The program with GUI recognizes speech to text.
 
 You can see the program work by clicking on the link.
 
-https://www.youtube.com/channel/UCJ5EhjDMvuRU4EjZJqE5AKA
+https://www.youtube.com/watch?v=SLJDPjYV_C4&t=6s
